@@ -1,3 +1,3 @@
 # freeCodeCamp Courses
 
-This is the directory for my completed projects related to the courses that I have taken at freeCodeCamp.org
+This is the documentation of my completed projects related to the courses that I have taken from freeCodeCamp.org
